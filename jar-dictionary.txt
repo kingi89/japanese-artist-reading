@@ -1,0 +1,35 @@
+;; japanese-artist-reading
+;; Readings for Japanese personal names for music credits
+;; © 2016-2022, Riku Eskelinen
+;;   <https://kingi89.fi/>
+;;   <https://github.com/kingi89/japanese-artist-reading>
+;; 
+;; See LICENSE for license information
+;; See README.md for usage information
+;; -----------------------------------------------------------------------------
+;; <Aitsuki> Nakuru - singer:
+あいつき 藍月
+;; Kirisaki <Airi> - singer:
+あいり 愛里
+;; <Asaka> - singer:
+あさか 亜咲花
+;; Uchida <Aya> - singer:
+あや 彩
+;; Ōhashi <Ayaka> - singer:
+あやか 彩香
+;; <Utatsuki> Kaori - singer:
+うたつき 詩月
+;; Takase <Kazuya> - composer:
+かずや 一矢
+;; Sakura <Saori> - singer:
+さおり 紗織
+;; Yaginuma <Satoshi> - composer:
+さとし 悟志
+;; <Senjōgahara> Hitagi - fictional singer:
+せんじょうがはら 戦場ヶ原
+;; Kurosaki <Maon> - singer:
+まおん 真音
+;; <Michishige> Sayumi - singer:
+みちしげ 道重
+;; Nanjō <Yoshino> - singer:
+よしの 愛乃
