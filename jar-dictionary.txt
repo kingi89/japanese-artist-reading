@@ -21,6 +21,8 @@
 うたつき 詩月
 ;; Takase <Kazuya> - composer:
 かずや 一矢
+;; Hanazawa <Kana> - singer:
+かな 香菜
 ;; Sakura <Saori> - singer:
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
