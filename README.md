@@ -9,7 +9,7 @@ The repository has two main files with identical contents, but with different en
 
 To use, pass the `jar-dictionary.euc.txt` to `kakasi` as an additional dictionary (*jisyo1*); for example:
 ```sh
-echo "南条愛乃" | kakasi -i utf-8 -o utf-8 -Ha -Ka -Ja -Ea -ka -s jar-dictionary.euc.txt
+echo "南條愛乃" | kakasi -i utf-8 -o utf-8 -Ha -Ka -Ja -Ea -ka -s jar-dictionary.euc.txt
 # nanjou yoshino
 ```
 
