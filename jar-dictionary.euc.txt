@@ -31,6 +31,8 @@
 しまみや 島みや
 ;; <Senj��gahara> Hitagi - fictional singer:
 せんじょうがはら 戦場ヶ原
+;; Nakazawa <Tomoyuki> - composer:
+ともゆき 伴行
 ;; Kurosaki <Maon> - singer:
 まおん 真音
 ;; <Michishige> Sayumi - singer:
