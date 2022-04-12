@@ -25,6 +25,8 @@
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
 さとし 悟志
+;; <Shimamiya> Eiko - singer:
+しまみや 島みや
 ;; <Senjōgahara> Hitagi - fictional singer:
 せんじょうがはら 戦場ヶ原
 ;; Kurosaki <Maon> - singer:
