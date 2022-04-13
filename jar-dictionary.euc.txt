@@ -17,6 +17,8 @@
 あや 彩
 ;; ��hashi <Ayaka> - singer:
 あやか 彩香
+;; <Utada> Hikaru - singer:
+うただ 宇多田
 ;; <Utatsuki> Kaori - singer:
 うたつき 詩月
 ;; Takase <Kazuya> - composer:
