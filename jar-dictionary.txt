@@ -17,6 +17,8 @@
 あや 彩
 ;; Ōhashi <Ayaka> - singer:
 あやか 彩香
+;; Kitazawa <Ayaka> - singer:
+あやか 綾香
 ;; <Utada> Hikaru - singer:
 うただ 宇多田
 ;; <Utatsuki> Kaori - singer:

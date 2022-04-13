@@ -17,6 +17,8 @@
 ¤¢¤ä ºÌ
 ;; ©ùhashi <Ayaka> - singer:
 ¤¢¤ä¤« ºÌ¹á
+;; Kitazawa <Ayaka> - singer:
+¤¢¤ä¤« °½¹á
 ;; <Utada> Hikaru - singer:
 ¤¦¤¿¤À ±§Â¿ÅÄ
 ;; <Utatsuki> Kaori - singer:
