@@ -41,6 +41,8 @@
 ともゆき 伴行
 ;; Kimura <Kamara> - composer:
 かまら 香真良
+;; <Maeda> Jun - composer:
+まえだ 麻枝
 ;; Kurosaki <Maon> - singer:
 まおん 真音
 ;; <Michishige> Sayumi - singer:
