@@ -19,6 +19,8 @@
 あやか 彩香
 ;; Kitazawa <Ayaka> - singer:
 あやか 綾香
+;; <Ayane> - singer:
+あやね 彩音
 ;; <Utada> Hikaru - singer:
 うただ 宇多田
 ;; <Utatsuki> Kaori - singer:
