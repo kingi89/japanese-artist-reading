@@ -39,6 +39,8 @@
 ¤»¤ó¤¸¤ç¤¦¤¬¤Ï¤é Àï¾ì¥ö¸¶
 ;; Sait©þ <Chiwa> - voice actress:
 ¤Á¤ï ÀéÏÂ
+;; Moriya <Toshinori> - composer:
+¤È¤·¤Î¤ê ÉÒµª
 ;; Nakazawa <Tomoyuki> - composer:
 ¤È¤â¤æ¤­ È¼¹Ô
 ;; Kimura <Kamara> - composer:
@@ -49,6 +51,8 @@
 ¤Þ¤ª¤ó ¿¿²»
 ;; <Michishige> Sayumi - singer:
 ¤ß¤Á¤·¤² Æ»½Å
+;; <Moriya> Toshinori - composer:
+¤â¤ê¤ä ¿¹Ã«
 ;; Nanj©þ <Yoshino> - singer:
 ¤è¤·¤Î °¦Çµ
 ;; Mizutani <Runa> - singer:
