@@ -51,3 +51,5 @@
 みちしげ 道重
 ;; Nanjō <Yoshino> - singer:
 よしの 愛乃
+;; Mizutani <Runa> - singer:
+るな 瑠奈
