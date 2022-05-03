@@ -11,6 +11,8 @@
 あいつき 藍月
 ;; Kirisaki <Airi> - singer:
 あいり 愛里
+;; Tateyama <Akiyuki> - composer:
+あきゆき 秋航
 ;; <Asaka> - singer:
 あさか 亜咲花
 ;; Uchida <Aya> - singer:
