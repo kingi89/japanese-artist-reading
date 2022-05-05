@@ -23,6 +23,8 @@
 あやか 綾香
 ;; <Ayane> - singer:
 あやね 彩音
+;; <Iguchi> Yuka - singer:
+いぐち 井口
 ;; <Utada> Hikaru - singer:
 うただ 宇多田
 ;; <Utatsuki> Kaori - singer:
@@ -59,6 +61,8 @@
 みちしげ 道重
 ;; <Moriya> Toshinori - composer:
 もりや 森谷
+;; Iguchi <Yuka> - singer:
+ゆか 裕香
 ;; <Yuzuno> - singer:
 ゆずの 柚子乃
 ;; Nanj�� <Yoshino> - singer:
