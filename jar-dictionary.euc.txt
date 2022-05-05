@@ -27,6 +27,8 @@
 うただ 宇多田
 ;; <Utatsuki> Kaori - singer:
 うたつき 詩月
+;; Sasaki <Eri> - singer-songwriter:
+えり 恵梨
 ;; <Orito> Shinji - composer:
 おりと 折戸
 ;; Takase <Kazuya> - composer:
