@@ -43,6 +43,8 @@
 ¤µ¤È¤· ¸ç»Ö
 ;; <Shimamiya> Eiko - singer:
 ¤·¤Þ¤ß¤ä Åç¤ß¤ä
+;; Konno <Sei> - singer:
+¤»¤¤ À»
 ;; <Senj©þgahara> Hitagi - fictional singer:
 ¤»¤ó¤¸¤ç¤¦¤¬¤Ï¤é Àï¾ì¥ö¸¶
 ;; Sait©þ <Chiwa> - voice actress:

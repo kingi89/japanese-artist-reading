@@ -43,6 +43,8 @@
 さとし 悟志
 ;; <Shimamiya> Eiko - singer:
 しまみや 島みや
+;; Konno <Sei> - singer:
+せい 聖
 ;; <Senjōgahara> Hitagi - fictional singer:
 せんじょうがはら 戦場ヶ原
 ;; Saitō <Chiwa> - voice actress:
