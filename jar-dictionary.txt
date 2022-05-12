@@ -41,6 +41,8 @@
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
 さとし 悟志
+;; <Shikura> Chiyomaru - composer:
+しくら 志倉
 ;; <Shimamiya> Eiko - singer:
 しまみや 島みや
 ;; Konno <Sei> - singer:
