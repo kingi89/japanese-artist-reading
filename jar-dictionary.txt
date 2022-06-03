@@ -33,6 +33,8 @@
 えり 恵梨
 ;; <Orito> Shinji - composer:
 おりと 折戸
+;; Ishihara <Kaori> - singer:
+かおり 夏織
 ;; Takase <Kazuya> - composer:
 かずや 一矢
 ;; Hanazawa <Kana> - singer:
