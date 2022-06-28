@@ -15,6 +15,8 @@
 あきゆき 秋航
 ;; <Asaka> - singer:
 あさか 亜咲花
+;; <Amamiya> Sora - singer:
+あまみや 雨宮
 ;; Uchida <Aya> - singer:
 あや 彩
 ;; Ōhashi <Ayaka> - singer:
@@ -51,6 +53,8 @@
 せい 聖
 ;; <Senjōgahara> Hitagi - fictional singer:
 せんじょうがはら 戦場ヶ原
+;; Amamiya <Sora> - singer:
+そら 天
 ;; Saitō <Chiwa> - voice actress:
 ちわ 千和
 ;; Moriya <Toshinori> - composer:
