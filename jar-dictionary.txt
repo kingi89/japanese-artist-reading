@@ -71,6 +71,8 @@
 みちしげ 道重
 ;; <Moriya> Toshinori - composer:
 もりや 森谷
+;; Makino <Yui> - singer:
+ゆい 由依
 ;; Iguchi <Yuka> - singer:
 ゆか 裕香
 ;; <Yuzuno> - singer:
