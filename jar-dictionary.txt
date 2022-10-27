@@ -43,6 +43,8 @@
 かな 香菜
 ;; Kimura <Kamara> - composer:
 かまら 香真良
+;; <Kisumi> Reika - singer:
+きすみ 木須実
 ;; Sakura <Saori> - singer:
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
@@ -85,3 +87,5 @@
 よしの 愛乃
 ;; Mizutani <Runa> - singer:
 るな 瑠奈
+;; Kisumi <Reika> - singer:
+れいか 怜花
