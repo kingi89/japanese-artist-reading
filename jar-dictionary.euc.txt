@@ -13,6 +13,8 @@
 あいり 愛里
 ;; Tateyama <Akiyuki> - composer:
 あきゆき 秋航
+;; Makino <Akira> - singer:
+あきら 明
 ;; <Asaka> - singer:
 あさか 亜咲花
 ;; <Amamiya> Sora - singer:
@@ -71,6 +73,8 @@
 まえだ 麻枝
 ;; Kurosaki <Maon> - singer:
 まおん 真音
+;; <Makino> Akira - singer:
+まきの 槙野
 ;; <Michishige> Sayumi - singer:
 みちしげ 道重
 ;; Nakajima <Megumi> - singer:
