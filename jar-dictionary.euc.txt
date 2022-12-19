@@ -17,6 +17,8 @@
 あきら 明
 ;; <Asaka> - singer:
 あさか 亜咲花
+;; <Asami> Rin - singer:
+あさみ 朝見
 ;; <Amamiya> Sora - singer:
 あまみや 雨宮
 ;; Uchida <Aya> - singer:
