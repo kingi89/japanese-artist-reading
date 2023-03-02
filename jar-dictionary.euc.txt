@@ -71,6 +71,8 @@
 ともゆき 伴行
 ;; <Nakajima> Megumi - singer:
 なかじま 中島
+;; <Maisaki> Nami - singer, composer:
+まいさき 舞崎
 ;; <Maeda> Jun - composer:
 まえだ 麻枝
 ;; Kurosaki <Maon> - singer:
@@ -83,6 +85,8 @@
 めぐみ 愛
 ;; <Moriya> Toshinori - composer:
 もりや 森谷
+;; Ogura <Yui> - singer:
+ゆい 唯
 ;; Makino <Yui> - singer:
 ゆい 由依
 ;; Iguchi <Yuka> - singer:
