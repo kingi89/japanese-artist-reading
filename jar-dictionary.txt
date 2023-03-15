@@ -55,8 +55,12 @@
 さとし 悟志
 ;; <Shikura> Chiyomaru - composer:
 しくら 志倉
+;; Shimoji <Shino> - voice actress:
+しの 紫野
 ;; <Shimamiya> Eiko - singer:
 しまみや 島みや
+;; <Shimoji> Shino - voice actress:
+しもじ 下地
 ;; Konno <Sei> - singer:
 せい 聖
 ;; <Senjōgahara> Hitagi - fictional singer:
