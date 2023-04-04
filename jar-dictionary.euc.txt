@@ -27,6 +27,8 @@
 あやか 彩香
 ;; Kitazawa <Ayaka> - singer:
 あやか 綾香
+;; Taketatsu <Ayana> - singer:
+あやな 彩奈
 ;; <Ayane> - singer:
 あやね 彩音
 ;; <Iguchi> Yuka - singer:
@@ -67,6 +69,8 @@
 せんじょうがはら 戦場ヶ原
 ;; Amamiya <Sora> - singer:
 そら 天
+;; <Taketatsu> Ayana - singer:
+たけたつ 竹達
 ;; Sait�� <Chiwa> - voice actress:
 ちわ 千和
 ;; Moriya <Toshinori> - composer:
