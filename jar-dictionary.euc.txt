@@ -69,6 +69,8 @@
 せんじょうがはら 戦場ヶ原
 ;; Amamiya <Sora> - singer:
 そら 天
+;; Okamoto <Takumi> - composer:
+たくみ 拓三
 ;; <Taketatsu> Ayana - singer:
 たけたつ 竹達
 ;; Sait�� <Chiwa> - voice actress:
