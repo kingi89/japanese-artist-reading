@@ -89,6 +89,8 @@
 まおん 真音
 ;; <Makino> Akira - singer:
 まきの 槙野
+;; <Mizutsuki> Ryou - composer:
+みずつき 水月
 ;; <Michishige> Sayumi - singer:
 みちしげ 道重
 ;; Nakajima <Megumi> - singer:
