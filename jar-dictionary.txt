@@ -93,6 +93,8 @@
 みずつき 水月
 ;; <Michishige> Sayumi - singer:
 みちしげ 道重
+;; <Mineuchi> Tomomi - voice actress:
+みねうち 嶺内
 ;; Nakajima <Megumi> - singer:
 めぐみ 愛
 ;; <Moriya> Toshinori - composer:
