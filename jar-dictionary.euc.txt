@@ -89,6 +89,8 @@
 まおん 真音
 ;; <Makino> Akira - singer:
 まきの 槙野
+;; Uetsu <Miu> - composer:
+みう 実有
 ;; <Mizutsuki> Ryou - composer:
 みずつき 水月
 ;; <Michishige> Sayumi - singer:
