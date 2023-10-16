@@ -51,6 +51,8 @@
 かまら 香真良
 ;; <Kisumi> Reika - singer:
 きすみ 木須実
+;; Nagatsuka <Kento> - composer:
+けんと 健登
 ;; Sakura <Saori> - singer:
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
@@ -81,6 +83,8 @@
 ともゆき 伴行
 ;; <Nakajima> Megumi - singer:
 なかじま 中島
+;; <Nagatsuka> Kento - composer:
+ながつか 永塚
 ;; <Maisaki> Nami - singer, composer:
 まいさき 舞崎
 ;; <Maeda> Jun - composer:
