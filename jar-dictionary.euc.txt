@@ -93,6 +93,8 @@
 まおん 真音
 ;; <Makino> Akira - singer:
 まきの 槙野
+;; Inaba <Manaka> - singer:
+まなか 愛香
 ;; Uetsu <Miu> - composer:
 みう 実有
 ;; <Mizutsuki> Ryou - composer:
