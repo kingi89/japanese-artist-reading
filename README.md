@@ -13,7 +13,7 @@ echo "南條愛乃" | kakasi -i utf-8 -o utf-8 -Ha -Ka -Ja -Ea -ka -s jar-dictio
 # nanjou yoshino
 ```
 
-See `kakasi(1)` for general usage of Kakasi.
+It is advisable to supply the ENAMDICT dictionary (or similar) as a secondary additional dictionary (*jisyo2*). See `kakasi(1)` for general usage of Kakasi.
 
 To convert the files from one to another, `iconv` can be used:
 
@@ -29,6 +29,9 @@ This dictionary contains reading-kanji pairs for personal and proper names. To b
   - an artist (real name or pseudonym)
   - a music group, unit or band
   - a composer, lyricist or arranger
-2. It is written in Japanese characters (kanji, hiragana, katakana) only, and at least one of the characters is a kanji
-3. Kakasi's default dictionary does not have a correct reading for it
-4. There doesn't exist a more common general reading for the name
+2. It is written in Japanese characters (kanji, hiragana, katakana) only, and the first character is a kanji
+3. The reading can be expressed, or sufficiently approximated, by spelling it out using only regular, everyday hiragana characters
+4. Kakasi's default dictionary does not have a correct reading for it
+5. The correct reading is not included in [ENAMDICT](http://www.edrdg.org/enamdict/enamdict_doc.html), or there are multiple readings in said database
+
+This policy may change at any time at the discretion of the maintainer. Currently listed names are exempt from this policy.
