@@ -59,6 +59,8 @@
 さとし 悟志
 ;; <Shikura> Chiyomaru - composer:
 しくら 志倉
+;; <Shishiro> Botan - vtuber, singer:
+ししろ 獅白
 ;; Shimoji <Shino> - voice actress:
 しの 紫野
 ;; <Shimamiya> Eiko - singer:
