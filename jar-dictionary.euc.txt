@@ -1,6 +1,6 @@
 ;; japanese-artist-reading
 ;; Readings for Japanese personal names for music credits
-;; ©¦©¢2016-2023, Riku Eskelinen
+;; ©¦©¢2016-2025, Riku Eskelinen
 ;;   <https://kingi89.fi/>
 ;;   <https://github.com/kingi89/japanese-artist-reading>
 ;; 
@@ -45,6 +45,9 @@
 ¤«¤ª¤ê ²Æ¿¥
 ;; Takase <Kazuya> - composer:
 ¤«¤º¤ä °ìÌð
+;; <Kit©þ Akari> - voice actress, singer:
+;; Full name used to prioritize over ENAMDICT entry for µ´Æ¬ÌÀ, Kit©þ Akira
+¤­¤È¤¦¤¢¤«¤ê µ´Æ¬ÌÀÎ¤
 ;; Hanazawa <Kana> - singer:
 ¤«¤Ê ¹áºÚ
 ;; Kimura <Kamara> - composer:
