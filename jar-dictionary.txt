@@ -56,6 +56,10 @@
 きすみ 木須実
 ;; Nagatsuka <Kento> - composer:
 けんと 健登
+;; Kohara <Konomi> - voice actress:
+このみ 好美
+;; <Kohara> Konomi - voice actress:
+こはら 小原
 ;; Sakura <Saori> - singer:
 さおり 紗織
 ;; Yaginuma <Satoshi> - composer:
