@@ -19,6 +19,8 @@
 あさか 亜咲花
 ;; <Asami> Rin - singer:
 あさみ 朝見
+;; <Adzuna> Riko - singer:
+あづな 安月名
 ;; <Amamiya> Sora - singer:
 あまみや 雨宮
 ;; Uchida <Aya> - singer:
