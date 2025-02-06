@@ -47,15 +47,15 @@
 かおり 夏織
 ;; Takase <Kazuya> - composer:
 かずや 一矢
-;; <Kitō Akari> - voice actress, singer:
-;; Full name used to prioritize over ENAMDICT entry for 鬼頭明, Kitō Akira
-きとうあかり 鬼頭明里
 ;; Hanazawa <Kana> - singer:
 かな 香菜
 ;; Kimura <Kamara> - composer:
 かまら 香真良
 ;; <Kisumi> Reika - singer:
 きすみ 木須実
+;; <Kitō Akari> - voice actress, singer:
+;; Full name used to prioritize over ENAMDICT entry for 鬼頭明, Kitō Akira
+きとうあかり 鬼頭明里
 ;; Nagatsuka <Kento> - composer:
 けんと 健登
 ;; Kohara <Konomi> - voice actress:
