@@ -47,6 +47,8 @@
 かおり 夏織
 ;; Takase <Kazuya> - composer:
 かずや 一矢
+;; <Katakiri> Rekka - singer:
+かたきり 片霧
 ;; Hanazawa <Kana> - singer:
 かな 香菜
 ;; Kimura <Kamara> - composer:
@@ -132,3 +134,5 @@
 るな 瑠奈
 ;; Kisumi <Reika> - singer:
 れいか 怜花
+;; Katakiri <Rekka> - singer:
+れっか 烈火
