@@ -78,6 +78,8 @@
 しまみや 島みや
 ;; <Shimoji> Shino - voice actress:
 しもじ 下地
+;; Yoshikawa <Sunao> - singer:
+すなお 順央
 ;; Konno <Sei> - singer:
 せい 聖
 ;; <Senj��gahara> Hitagi - fictional singer:
