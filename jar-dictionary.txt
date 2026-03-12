@@ -11,6 +11,8 @@
 あいつき 藍月
 ;; Kirisaki <Airi> - singer:
 あいり 愛里
+;; Koga <Aoi> - voice actress:
+あおい 葵
 ;; Tateyama <Akiyuki> - composer:
 あきゆき 秋航
 ;; Makino <Akira> - singer:
