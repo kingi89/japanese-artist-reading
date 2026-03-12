@@ -1,6 +1,6 @@
 ;; japanese-artist-reading
 ;; Readings for Japanese personal names for music credits
-;; ©¦©¢2016-2025, Riku Eskelinen
+;; ©¦©¢2016-2026, Riku Eskelinen
 ;;   <https://kingi89.fi/>
 ;;   <https://github.com/kingi89/japanese-artist-reading>
 ;; 
